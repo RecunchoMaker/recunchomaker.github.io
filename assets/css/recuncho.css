@@ -1,0 +1,12 @@
+
+.fa-flickr:before{content:"\f16e"}
+
+#logo img {
+	height: 1.5em;
+	width: 1.5em;
+	clear: both;
+	display: block;
+	margin: 0 auto;
+	border-radius: 0.3ex;
+}
+
