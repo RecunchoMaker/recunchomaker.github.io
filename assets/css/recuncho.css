@@ -10,3 +10,6 @@
 	border-radius: 0.3ex;
 }
 
+#header {
+	background-image: url("../../images/main_background.jpg");
+}
