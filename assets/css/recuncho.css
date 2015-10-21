@@ -2,12 +2,13 @@
 .fa-flickr:before{content:"\f16e"}
 
 #logo img {
-	height: 1.5em;
-	width: 1.5em;
+	height: 4em;
 	clear: both;
 	display: block;
 	margin: 0 auto;
 	border-radius: 0.3ex;
+  background-color: white;
+  padding: 0.5ex;
 }
 
 #header {
