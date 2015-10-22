@@ -38,6 +38,10 @@ header h2 {
   margin: 0;
 }
 
+.carousel article {
+    vertical-align: top;
+}
+
 article.map {
   margin: 0 auto;
   text-align: center;
