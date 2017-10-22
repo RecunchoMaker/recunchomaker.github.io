@@ -3,7 +3,8 @@
 ![Cartel](https://raw.githubusercontent.com/RecunchoMaker/recunchomaker.github.io/master/obradoiros/arduino17/CartazArduino-web.jpg)
 
 O __sábado 28 de outubro ás 11:00 da mañá__, no [Centro Socio-Cultural de Caramoniña (en Santiago de Compostela)](http://www.openstreetmap.org/way/401315389#map=18/42.88427/-8.53834), 
-realizaremos, de balde para os inscritos, un obradoiro para coñecer o Hardware e Software Libre con [Arduino](https://vimeo.com/18390711).
+realizaremos, de balde para os inscritos, un obradoiro para coñecer o Hardware e Software Libre con [Arduino](https://vimeo.com/18390711). A 
+duración aproximada do obradoiro é de 3 horas.
 
 O obxectivo é iniciarse dun xeito práctico no mundo da electrónica e programación con Arduino. Imos partir de cero con Arduino e 
 faremos unha sesión práctica para aprender que son as entradas e saídas do Arduino con exemplos onde terás que facer as
