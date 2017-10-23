@@ -3,7 +3,7 @@
 ![Cartel](https://raw.githubusercontent.com/RecunchoMaker/recunchomaker.github.io/master/obradoiros/escorna17/CartazEscornabot.jpg)
 
 O __sábado 28 de outubro de 2017 ás 17:00h__, no [Centro Socio-Cultural de Caramoniña (en Santiago de Compostela)](http://www.openstreetmap.org/way/401315389#map=18/42.88427/-8.53834),
-realizaremos, de balde para os inscritos, un obradoiro de montaxe do robót educativo Escornabot. A duración aproximada do 
+realizaremos, de balde para os inscritos, un obradoiro de montaxe do robot educativo Escornabot. A duración aproximada do 
 obradoiro é de 3 horas.
 
 O obxectivo é coñecer o ensamblaxe dos compoñentes do Escornabot e aprender a cargar o programa _firmware_
@@ -24,6 +24,6 @@ de primaria que poidan dar aplicación na súa escola ao Escornabot que se entre
 ensinanza no email).
 
 Esta actividade forma parte das actividades que a asociación Recuncho Maker realiza no marco do convenio de colaboración asinado 
-coa Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), e incluídas no Plan de Acción de Software Libre 2017 da 
+coa Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), e incluidas no Plan de Acción de Software Libre 2017 da 
 Xunta de Galicia.
 
