@@ -2,7 +2,7 @@
 
 ![Cartel](https://raw.githubusercontent.com/RecunchoMaker/recunchomaker.github.io/master/obradoiros/escorna17/CartazEscornabot.jpg)
 
-O __sábado 28 de outubro de 2017 ás 17:00h__, no [Centro Socio-Cultural de Caramoniña (en Santiago de Compostela)](http://www.openstreetmap.org/way/401315389#map=18/42.88427/-8.53834),
+O __venres 27 de outubro de 2017 ás 17:00h__, no [Centro Socio-Cultural de Caramoniña (en Santiago de Compostela)](http://www.openstreetmap.org/way/401315389#map=18/42.88427/-8.53834),
 realizaremos, de balde para os inscritos, un obradoiro de montaxe do robot educativo Escornabot. A duración aproximada do 
 obradoiro é de 3 horas.
 
