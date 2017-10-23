@@ -20,6 +20,6 @@ Requisitos para participar no obradoiro:
 Para a inscripción, envía un email a ``info@recunchomaker.org`` co título 'Obradoiro Arduino'.
 
 Esta actividade forma parte das actividades que a asociación Recuncho Maker realiza no marco do convenio de colaboración asinado 
-coa Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), e incluídas no Plan de Acción de Software Libre 2017 da 
+coa Axencia para a Modernización Tecnolóxica de Galicia (AMTEGA), e incluidas no Plan de Acción de Software Libre 2017 da 
 Xunta de Galicia.
 
