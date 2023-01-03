@@ -1,7 +1,7 @@
 
 # Web do Recuncho Maker
 
-Este repo é o fonte do que se ve en __[recunchomaker.org](http://recunchomaker.org)__. 
+Este repo é o fonte do que se ve en __[recunchomaker.github.io](https://recunchomaker.github.io)__. 
 
 
 ## Edición do contido
